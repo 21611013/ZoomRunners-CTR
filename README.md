@@ -48,6 +48,6 @@ The dashboard consists of three main tabs:
 
 ## Credits:
 
-This Shiny App is inspired by the need for a user-friendly tool to analyze and interpret CTR data. The structure and design of the code draw inspiration from various Shiny Dashboard templates and online resources.
+This dashboard is created as part of a Business Intelligence project during the 5th semester of an academic program.
 
 Feel free to explore, modify, and use the dashboard for your purposes. If you encounter any issues or have suggestions for improvements, please let us know!
